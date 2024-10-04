@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ivianti.github.io/sitemap.html.gz
+Sitemap: https://ivianti.github.io/app/sitemap.html.gz
+Sitemap: https://ivianti.github.io/assets/sitemap.html.gz
+Sitemap: https://ivianti.github.io/css/sitemap.html.gz
+Sitemap: https://ivianti.github.io/data/sitemap.html.gz
+Sitemap: https://ivianti.github.io/includes/sitemap.html.gz
+Sitemap: https://ivianti.github.io/item/sitemap.html.gz
+Sitemap: https://ivianti.github.io/src/sitemap.html.gz
